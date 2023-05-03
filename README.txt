@@ -4,7 +4,6 @@
 =: Core Concepts :=
 ===================
 
-
   1. 2D Arrays
   Implements the Game Model by storing the current state of the
   grid. The array stores the value of the tile at the specific index of the grid
@@ -24,7 +23,6 @@
 
   When the undo button is pressed, the last value in the linked list is removed and
   the model is reverted back to the previous state
-
 
   3. File I/O
 
@@ -83,7 +81,6 @@
   didn't necessarily show what was going wrong or what the board looked like.
   Therefore, I implemented helper functions such as getCurrentStateOfBoard() to visualize
   what was happening.
-
 
 - Evaluation: 
 
