@@ -1,15 +1,9 @@
-=:=:=:=:=:=:=:=:=:=:=:=:=:=:=:=:=:=:=
-CIS 120 Game Project README
-PennKey: shraab
-=:=:=:=:=:=:=:=:=:=:=:=:=:=:=:=:=:=:=
+
 
 ===================
 =: Core Concepts :=
 ===================
 
-- List the four core concepts, the features they implement, and why each feature
-  is an appropriate use of the concept. Incorporate the feedback you got after
-  submitting your proposal.
 
   1. 2D Arrays
   Implements the Game Model by storing the current state of the
@@ -91,17 +85,9 @@ PennKey: shraab
   what was happening.
 
 
-- Evaluate your design. Is there a good separation of functionality? How well is
-  private state encapsulated? What would you refactor, if given the chance?
+- Evaluation: 
 
   The current state of the board is encapsulated from the user so, they are unable to
   edit the board. I think the current separating of classes and functionality is appropriate
   and if I further seperated functionality It may be difficult to use the methods in multiple
   classes and update the game accordingly.
-
-========================
-=: External Resources :=
-========================
-
-- Cite any external resources (images, tutorials, etc.) that you may have used 
-  while implementing your game.
