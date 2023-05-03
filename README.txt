@@ -83,7 +83,6 @@
   what was happening.
 
 - Evaluation: 
-
   The current state of the board is encapsulated from the user so, they are unable to
   edit the board. I think the current separating of classes and functionality is appropriate
   and if I further seperated functionality It may be difficult to use the methods in multiple
